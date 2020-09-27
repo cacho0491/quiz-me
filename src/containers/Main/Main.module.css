@@ -1,0 +1,11 @@
+.Main {
+  background-image: linear-gradient(
+    to right,
+    rgb(246, 241, 169),
+    rgb(241, 255, 248)
+  );
+  margin: 20px auto;
+  align-content: center;
+  text-align: center;
+  margin: 50px auto;
+}

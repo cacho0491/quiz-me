@@ -1,0 +1,14 @@
+.Header {
+  height: 50px;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 137, 250, 0.835),
+    rgba(168, 216, 255, 0.835)
+  );
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 140%;
+  font-weight: 400;
+}

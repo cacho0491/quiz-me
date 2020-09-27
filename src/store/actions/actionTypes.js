@@ -1,0 +1,5 @@
+export const ADD_SCORE_START = "ADD_SCORE_START";
+export const ADD_SCORE_SUCCESS = "ADD_SCORE_SUCCESS";
+export const ADD_SCORE_FAIL = "ADD_SCORE_FAIL";
+
+export const RE_START_GAME = "RE_START_GAME";

@@ -1,0 +1,9 @@
+.QuestionOption {
+  background-color: coral;
+  height: 150%;
+  width: 80%;
+  border-radius: 100px;
+  border: 1px solid black;
+  margin: 20px;
+  padding: 10px;
+}
